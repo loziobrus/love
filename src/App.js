@@ -1,7 +1,8 @@
-import heart from './heart.gif';
 import './App.css';
 
 function App() {
+  const heart = 'https://media3.giphy.com/media/xwx6UV2qgwLlDQ5MRW/giphy.gif';
+
   return (
     <div className="App">
       <header className="App-header">
